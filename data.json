@@ -1,0 +1,58 @@
+{
+    "users": {
+        "guru": "12345",
+        "001": "001",
+        "002": "002",
+        "003": "003",
+        "004": "004"   
+    },
+    "kkm": 75,
+    "mata_pelajaran": [
+        "Matematika",
+        "Bahasa Indonesia",
+        "IPA",
+        "Sejarah"
+    ],
+    "siswa": {
+        "001": {
+            "nama": "Budi Santoso",
+            "kelas": "X-A",
+            "nilai": {
+                "Matematika": 85,
+                "Bahasa Indonesia": 90,
+                "IPA": 78,
+                "Sejarah": 92
+            }
+        },
+        "002": {
+            "nama": "Citra Dewi",
+            "kelas": "X-B",
+            "nilai": {
+                "Matematika": 70,
+                "Bahasa Indonesia": 88,
+                "IPA": 81,
+                "Sejarah": 76
+            }
+        },
+        "003": {
+            "nama": "Dedi Kurniawan",
+            "kelas": "XI-A",
+            "nilai": {
+                "Matematika": 80,
+                "Bahasa Indonesia": 85,
+                "IPA": 75,
+                "Sejarah": 88
+            }
+        },
+        "004": {
+            "nama": "Eka Putri",
+            "kelas": "XI-B",
+            "nilai": {
+                "Matematika": 65,
+                "Bahasa Indonesia": 75,
+                "IPA": 70,
+                "Sejarah": 80
+            }
+        }
+    }
+}
